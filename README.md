@@ -1,1 +1,1 @@
-# go-chat-app
+Golang chat application
